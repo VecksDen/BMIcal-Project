@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BMI PROT 1", "BMI PROT 1.vcxproj", "{7D1ADCCB-43CB-41BE-9623-C3A1C561C5C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D1ADCCB-43CB-41BE-9623-C3A1C561C5C9}.Debug|x64.ActiveCfg = Debug|x64
+		{7D1ADCCB-43CB-41BE-9623-C3A1C561C5C9}.Debug|x64.Build.0 = Debug|x64
+		{7D1ADCCB-43CB-41BE-9623-C3A1C561C5C9}.Debug|x86.ActiveCfg = Debug|Win32
+		{7D1ADCCB-43CB-41BE-9623-C3A1C561C5C9}.Debug|x86.Build.0 = Debug|Win32
+		{7D1ADCCB-43CB-41BE-9623-C3A1C561C5C9}.Release|x64.ActiveCfg = Release|x64
+		{7D1ADCCB-43CB-41BE-9623-C3A1C561C5C9}.Release|x64.Build.0 = Release|x64
+		{7D1ADCCB-43CB-41BE-9623-C3A1C561C5C9}.Release|x86.ActiveCfg = Release|Win32
+		{7D1ADCCB-43CB-41BE-9623-C3A1C561C5C9}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {203E9B93-6D71-4DD1-99B0-C6CDF0AF2B5D}
+	EndGlobalSection
+EndGlobal
